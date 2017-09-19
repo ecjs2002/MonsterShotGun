@@ -16,6 +16,8 @@ public class Bullet {
     int speed;
     double radian;
 
+    //999
+
 
 
 
